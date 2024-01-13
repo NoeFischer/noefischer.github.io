@@ -1,1 +1,11 @@
+# Name of your site (displayed in the header)
+name: Noé Fischer
+
+# Short bio or description (displayed in the header)
+description: Analytics Engineer 
+
+# Avatar image
+avatar: https://raw.githubusercontent.com/NoeFischer/noe.fischer.github.io/master/images/avatar.png
+
+# Theme 
 theme: jekyll-theme-minimal
