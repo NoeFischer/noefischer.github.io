@@ -224,6 +224,24 @@ img.cover {
   box-shadow: 0 15px 30px rgba(48, 38, 28, 0.08);
 }
 
+figure.profile-photo {
+  margin: 2.5rem auto;
+  text-align: center;
+}
+
+figure.profile-photo img {
+  width: min(100%, 520px);
+  border-radius: calc(var(--radius) - 2px);
+  box-shadow: 0 20px 35px rgba(48, 38, 28, 0.12);
+}
+
+figure.profile-photo figcaption {
+  margin-top: 0.85rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+  letter-spacing: 0.04em;
+}
+
 blockquote {
   margin: 1.75rem 0;
   padding-left: 1.25rem;
